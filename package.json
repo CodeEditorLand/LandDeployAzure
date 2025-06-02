@@ -145,7 +145,7 @@
         "azureintegration-repoanalysis-client-internal": "^1.0.0",
         "fs-extra": "^9.0.1",
         "js-yaml": "^3.13.1",
-        "jsonpath-plus": "^3.0.0",
+        "jsonpath-plus": "^10.3.0",
         "mustache": "3.0.1",
         "q": "1.5.1",
         "semver": "^7.3.2",
